@@ -28,8 +28,10 @@ ECMP Load Balancing
 
 controller (loadbalancing.py) does ECMP as follows
 
-1/3 of flows follow path S4-S1-S5.
-1/3 of flows follow path S4-S2-S5.
+1/3 of flows follow path S4-S1-S5
+
+1/3 of flows follow path S4-S2-S5
+
 1/3 of flows follow path S4-S3-S5
 
 
